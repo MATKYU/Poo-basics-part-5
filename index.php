@@ -2,6 +2,7 @@
 
 // La Base 
 
+require_once 'LightableInterface.php';
 require_once 'bicycle.php';
 require_once 'HighWay.php';
 require_once 'MotorWay.php';
